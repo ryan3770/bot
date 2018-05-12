@@ -3,7 +3,6 @@
 
 	By: Ecuacion
 */
- 
 
 try {
 	require('sugar');

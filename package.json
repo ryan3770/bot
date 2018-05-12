@@ -46,6 +46,7 @@
     "sugar": "^2.0.4",
     "colors": "^1.2.5",
     "websocket": "^1.0.26",
+    "http-errors": "^1.6.3"
   },
   "devDependencies": {
     "cache-swap": "~0.2.0",

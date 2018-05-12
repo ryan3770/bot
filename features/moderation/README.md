@@ -1,4 +1,4 @@
-﻿Pokemon Showdown Bot - Moderation Feature
+Pokemon Showdown Bot - Moderation Feature
 ====================
 
 This feature deals with caps, stretching, flooding, spam and other usual infractions. Note that the bot can't think, so it will probably make mistakes. Also, this feature has Join Phrases, which consists of a kind of greeting that the bot says when an user joins a room.

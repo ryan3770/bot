@@ -1,6 +1,7 @@
 dependencies:
   colors: 1.2.5
   express: 4.16.3
+  http-errors: 1.6.3
   sugar: 2.0.4
   websocket: 1.0.26
 devDependencies:
@@ -3692,6 +3693,7 @@ specifiers:
   gulp-jscs: ~3.0.2
   gulp-jshint: ~2.0.0
   gulp-replace: ~0.5.1
+  http-errors: ^1.6.3
   jshint-stylish: ~2.1.0
   lazypipe: ~1.0.1
   merge-stream: ~1.0.0
